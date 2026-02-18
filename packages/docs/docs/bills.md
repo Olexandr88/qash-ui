@@ -11,7 +11,7 @@ Qash allows you to manage and pay invoices received from vendors, clients, and e
 
 The Bills page provides a comprehensive view of all invoices you've received.
 
-![Bills Overview Page](/img/bills/bill-overview.png)
+![Bills Overview Page](../static/img/bills/bill-overview.png)
 
 ### Bill Tabs
 
